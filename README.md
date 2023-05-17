@@ -1,2 +1,2 @@
 # Independent-Work
-Course work for classes while not at UCCS
+Course work for classes while not in school
